@@ -2,7 +2,8 @@
 The original Chives project used a number of metrics pertaining to the physical environment in the city of Chicago to display areas that are affected by adverse conditions. The ChivesCU project aims to achieve the same goals for the Champaign-Urbana area.
 
 ## CU-Edition Contributors: 
-Core team: Stefan Illic (Roepka Scholar), Marynia Kolak (PI)
+Core team: Stefan Illic (Roepke Scholar), Marynia Kolak (PI)
+
 Data contributors: Kei Yamato (2022 Honors Project)
 
 ## Spring 2023 Plan
