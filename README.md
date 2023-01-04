@@ -27,7 +27,7 @@ Dev Goals:
 
 ## Beyond Spring 2022:
 
-Data to be added:
+### Data to be added:
 - Air quality estimates (PM2.5)
 - Park spaces (via OpenStreeMap)
 - Tree cover (% of land cover)
@@ -35,7 +35,7 @@ Data to be added:
 - Number of unique plant species
 - Flood susceptibility
  
-+ Collaborations to expand further
-
+### Collaborations Plan
+Develop presentation of working prototype to local/regional teams for further development.
 
 
