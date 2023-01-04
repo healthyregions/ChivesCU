@@ -30,10 +30,10 @@ Dev Goals:
 ### Data to be added:
 - Air quality estimates (PM2.5)
 - Park spaces (via OpenStreeMap)
-- Tree cover (% of land cover)
-- Total observations of plant life
-- Number of unique plant species
-- Flood susceptibility
+- Land cover
+- Total observations of plant life (using ChiBotanic approach?)
+- Number of unique plant species (using ChiBotanic approach?)
+- Flood susceptibility using FEMA models
  
 ### Collaborations Plan
 Develop presentation of working prototype to local/regional teams for further development.
