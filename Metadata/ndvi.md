@@ -10,7 +10,7 @@ BE06 - Normalized Difference Vegetation Index (NDVI) for US-wide at the Census t
 
 - BE06_NDVI_T
 
-#Data Source(s) Description:
+## Data Source(s) Description:
 
 Tract-level data was sourced from Sentinel 2 MSI: MultiSpectral Instrument, Level-1 C. It was calculated using imagery from the summer of 2018. Summer is defined as 03/20/2018 to 09/22/2018 (spring to fall solstice). The tract-level dataset was provided by Dr. Michelle Stuhmacher, Assistant Professor, DePaul University Department of Geography.
 
